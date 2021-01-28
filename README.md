@@ -1,4 +1,6 @@
-# Portfolio-Data-Science
+<img src="banner.png">
+
+<b>Portfolio-Data-Science<b>
 
 Rodrigo Weber
 
