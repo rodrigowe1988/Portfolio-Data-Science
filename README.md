@@ -12,8 +12,6 @@ Conhecimentos: Python, HTML, CSS, Javascript, Java e C.
 
 Links:
 
-Blog https://medium.com/@rodrigoweber_43886
-
 LinkedIn https://www.linkedin.com/in/rodrigo-weber-41446b74/
 
-Medium
+Medium https://medium.com/@rodrigoweber_43886
